@@ -22,6 +22,11 @@ const felipeCiroM = {
   Aspirations: ['AI', 'CloudComputing', 'MachineLearning']
 }
 ```
+
+<hr/>
+<h2>About me / Acerca de mí</h2>
+<hr/>
+
 <div>
   <h4>English</h4>
   <p>
@@ -33,11 +38,8 @@ const felipeCiroM = {
     I love reading, nature and of course computer science.
     
   </p>
-  <strong> Below is a brief sample of what I have done: </strong>
 </div>
-<hr/>
-<h2>About me / Acerca de mí</h2>
-<hr/>
+
 <div>
   <h4>Spanish</h4>
   <p>
@@ -47,15 +49,16 @@ const felipeCiroM = {
     Trabajo muy bien en equipo, generalmente soy quien los lidera,
     puedo ver potencial en las personas que tal vez ellas mismas desconocen. 
     Me encanta la lectura, la naturaleza y por supuesto las ciencias de la computación.
-    
   </p>
-  <strong> A continuación una breve muestra de lo que he hecho: </strong>
 </div>
+
+<strong> Below is a brief sample of what I have done: / A continuación una breve muestra de lo que he hecho:</strong>
+
 <hr/>
 <h2>Projects / Proyectos</h2>
 <hr/>
-<h2> Weather App </h2>
 
+<h2> Weather App </h2>
 <h4> Developed with: / Desarrollada con: </h4>
 <ul>
   <h5>|--| FrontEnd |--|</h5>
@@ -85,8 +88,9 @@ Deployada con Heroku para el BackEnd y Versel para el FrontEnd.
 Pueden visitarla, haciendo click <a href="https://videogames-app-ruddy.vercel.app/">aquí</a>
 
 <hr/>
+<h2> Contact / Contacto </h2>
 
-<h2> You can contact me at: / Me puedes contactar en: </h2>
+<h4> You can contact me at: / Me puedes contactar en: </h4>
 
 <p>
     <a href="https://www.linkedin.com/in/felipe-ciro-montoya/">
