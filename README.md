@@ -7,7 +7,7 @@
 
 <h4> You can contact me at: / Me puedes contactar en: </h4>
 
-<p align="in-line">
+<span align="center">
     <div>
       <h4>LinkedIn</h4>
       <a href="https://www.linkedin.com/in/felipe-ciro-montoya/">
@@ -27,7 +27,7 @@
       </a>
     </div>
     
-<p/>
+<span/>
 
 ```js
 const felipeCiroM = {
