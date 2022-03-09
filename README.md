@@ -26,6 +26,7 @@
       <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Felipe Ciro Gmail" height="30" width="30" />
       </a>
     </span>
+    <p><label>felipe.cirom@udea.edu.co</label></p>
     
 <div/>
     
