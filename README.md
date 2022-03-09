@@ -7,7 +7,7 @@
 
 <h4> You can contact me at: / Me puedes contactar en: </h4>
 
-<span display="center">
+<div>
     <span>
       <h4>LinkedIn</h4>
       <a href="https://www.linkedin.com/in/felipe-ciro-montoya/">
@@ -27,7 +27,7 @@
       </a>
     </span>
     
-<span/>
+<div/>
 <hr/>
 ```js
 const felipeCiroM = {
@@ -114,18 +114,3 @@ Deployada con Heroku para el BackEnd y Versel para el FrontEnd.
 Pueden visitarla, haciendo click <a href="https://videogames-app-ruddy.vercel.app/">aquí</a>
 
 <hr/>
-
-<!--
-**FelipeCiroM/FelipeCiroM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
