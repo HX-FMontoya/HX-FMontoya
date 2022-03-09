@@ -1,7 +1,7 @@
 
 
 ![Port](https://i.postimg.cc/ydkR2sLS/imagen.png)](https://postimg.cc/wyY3m886)
-<h1 align="center"> Hi, my name is Felipe! 👋 :computer: </h1>
+<h1 align="center"> Hi, my name is Felipe! 👋 </h1>
 
 ```js
 const felipeCiroM = {
@@ -35,8 +35,9 @@ const felipeCiroM = {
   </p>
   <strong> Below is a brief sample of what I have done: </strong>
 </div>
-
-
+<hr/>
+<h2>About me / Acerca de mí</h2>
+<hr/>
 <div>
   <h4>Spanish</h4>
   <p>
@@ -50,8 +51,9 @@ const felipeCiroM = {
   </p>
   <strong> A continuación una breve muestra de lo que he hecho: </strong>
 </div>
-
-
+<hr/>
+<h2>Projects / Proyectos</h2>
+<hr/>
 <h2> Weather App </h2>
 
 <h4> Developed with: / Desarrollada con: </h4>
@@ -78,7 +80,7 @@ const felipeCiroM = {
 </ul>
 Developed with: Deployed with Heroku for the BackEnd and Versel for the FrontEnd. 
 You can visit it by clicking <a href="https://videogames-app-ruddy.vercel.app/">here</a>
-----------------------------------
+
 Deployada con Heroku para el BackEnd y Versel para el FrontEnd. 
 Pueden visitarla, haciendo click <a href="https://videogames-app-ruddy.vercel.app/">aquí</a>
 
