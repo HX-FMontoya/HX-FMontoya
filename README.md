@@ -94,15 +94,21 @@ Pueden visitarla, haciendo click <a href="https://videogames-app-ruddy.vercel.ap
 
 <p>
     <div>
-      <h4>Linkedin</h4>
+      <h4>LinkedIn</h4>
       <a href="https://www.linkedin.com/in/felipe-ciro-montoya/">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
+      <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Felipe Ciro LinkedIn Profile" height="30" width="30" />
       </a>
     </div>
     <div>
       <h4>GitHub</h4>
       <a href="https://github.com/FelipeCiroM">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
+      <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Felipe Ciro GitHub Profile" height="30" width="30" />
+      </a>
+    </div>
+    <div>
+      <h4>Mail</h4>
+      <a href="mailto:felipe.cirom@udea.edu.co">
+      <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Felipe Ciro Gmail" height="30" width="30" />
       </a>
     </div>
     
