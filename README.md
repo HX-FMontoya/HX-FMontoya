@@ -24,7 +24,7 @@ const felipeCiroM = {
 ```
 
 <hr/>
-<h2>About me / Acerca de mí</h2>
+<h2 align="center">About me / Acerca de mí</h2>
 <hr/>
 
 <div>
@@ -55,7 +55,7 @@ const felipeCiroM = {
 <strong> Below is a brief sample of what I have done: / A continuación una breve muestra de lo que he hecho:</strong>
 
 <hr/>
-<h2>Projects / Proyectos</h2>
+<h2 align="center">Projects / Proyectos</h2>
 <hr/>
 
 <h2> Weather App </h2>
@@ -88,17 +88,24 @@ Deployada con Heroku para el BackEnd y Versel para el FrontEnd.
 Pueden visitarla, haciendo click <a href="https://videogames-app-ruddy.vercel.app/">aquí</a>
 
 <hr/>
-<h2> Contact / Contacto </h2>
+<h2 align="center"> Contact / Contacto </h2>
 
 <h4> You can contact me at: / Me puedes contactar en: </h4>
 
 <p>
-    <a href="https://www.linkedin.com/in/felipe-ciro-montoya/">
+    <div>
+      <h4>Linkedin</h4>
+      <a href="https://www.linkedin.com/in/felipe-ciro-montoya/">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
-    </a>
-    <a href="https://github.com/FelipeCiroM">
+      </a>
+    </div>
+    <div>
+      <h4>GitHub</h4>
+      <a href="https://github.com/FelipeCiroM">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
-    </a>
+      </a>
+    </div>
+    
 <p/>
 
 <hr/>
