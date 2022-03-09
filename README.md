@@ -28,7 +28,7 @@
     </span>
     
 <div/>
-<hr/>
+
 ```js
 const felipeCiroM = {
   Skills: {
