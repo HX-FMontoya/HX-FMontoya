@@ -28,6 +28,9 @@
     </span>
     
 <div/>
+    
+<hr/>
+<br/>
 
 ```js
 const felipeCiroM = {
