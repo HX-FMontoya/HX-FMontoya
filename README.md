@@ -1,13 +1,13 @@
 
 
-![Port](https://i.postimg.cc/ydkR2sLS/imagen.png)](https://postimg.cc/wyY3m886)
+![Port](https://i.postimg.cc/ydkR2sLS/imagen.png)]
 <h1 align="center"> Hi, my name is Felipe! 👋 </h1>
 <hr/>
 <h2 align="center"> Contact / Contacto </h2>
 
 <h4> You can contact me at: / Me puedes contactar en: </h4>
 
-<span align="center">
+<span display="inline>
     <span>
       <h4>LinkedIn</h4>
       <a href="https://www.linkedin.com/in/felipe-ciro-montoya/">
