@@ -51,7 +51,7 @@ const felipeCiroM = {
         ]
     },
   Proyects: [
-      {weatherApp: ['React', 'Redux']},
+      {weatherApp: ['React']},
       {videogamesApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'PostgreSQL']}
     ],
   FutureTecnologies: ['Python', 'Solidity', 'Go', 'Ruby'],
@@ -99,8 +99,10 @@ const felipeCiroM = {
 <ul>
   <h5>|--| FrontEnd |--|</h5>
     <li>React</li>
-    <li>Redux</li>
 </ul>
+<img align="left" src="https://photos.google.com/album/AF1QipPuf1NubCD7pXzl-9UYh6xko9E3Dvt-9jHligO5/photo/AF1QipNmsgq0DRbbBX2Ge5s8WeoNDv66um13ee3rZH-N" alt="not found" height="100" width="100" />
+    <img align="center" src="https://photos.google.com/album/AF1QipPuf1NubCD7pXzl-9UYh6xko9E3Dvt-9jHligO5/photo/AF1QipPD5gJ4preKOU2279sH3lRppgDhmB3ZzbTbbJ03" alt="not found" height="100" width="100" />
+    <img align="right" src="https://photos.google.com/album/AF1QipPuf1NubCD7pXzl-9UYh6xko9E3Dvt-9jHligO5/photo/AF1QipPBcuVYnYifJC1bwTsJ27fIkOJxSqboY_psn12v" alt="not found" height="100" width="100" />
 
 <hr/>
 
