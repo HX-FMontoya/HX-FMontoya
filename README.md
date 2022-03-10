@@ -15,7 +15,7 @@
         <img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="https://wa.me               /+undefined573003400992?text=Hola%20Alejandro,%20soy%20" height="40" width="40" />
     </a>
     <a href="mailto:felipe.cirom@udea.edu.co">
-     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Felipe Ciro Gmail" height="40" width="40" />
+     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Felipe Ciro Gmail" height="60" width="60" />
      </a>
 <div/>
 <br/>
