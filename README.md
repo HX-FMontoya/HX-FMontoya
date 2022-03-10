@@ -44,7 +44,6 @@ const felipeCiroM = {
   Skills: {
       BackEnd: [
           {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'PostgreSQL']},
-          {LaTEX: ['Overleaf']}
         ],
       FrontEnd: [
           {JavaScript: ['React', 'React-Native', 'Redux']}
