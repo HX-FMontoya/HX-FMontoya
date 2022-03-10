@@ -122,9 +122,9 @@ const felipeCiroM = {
 </ul>
     
     <p>This application merges both databases, backend and frontend. It uses an external API (RAWG) which gives us a detailed list of video games, which we will be able to filter by genre, sort by name, rating, among others, you can search for video games, and create your own. I made it by creating a database with Sequelize and postgreSQL, to store the video games that the user will create. Using async await for the Backend part and managing a controlled form in the Frontend.
-Developed with: Deployed with Heroku for the BackEnd and Versel for the FrontEnd. 
-You can visit it by clicking <a href="https://videogames-app-ruddy.vercel.app/">here</a>
     </p>
+    Developed with: Deployed with Heroku for the BackEnd and Versel for the FrontEnd. 
+You can visit it by clicking <a href="https://videogames-app-ruddy.vercel.app/">here</a>
     
     <p>Esta aplicación fusiona tanto bases de datos, backend y frontend. Usa una API externa (RAWG) la cual nos brinda una lista detallada de videojuegos, los cuales, vamos a poder filtrar por género, ordenar por nombre, rating, entre otras, se pueden buscar videojuegos, y crear los propios. la realicé creando una base de datos con Sequelize y postgreSQL, para almacenar los videojuegos que el usuario irá creando. Utilizando async await para la parte del Backend y manejando un formulario controlado en el Frontend.
 Deployada con Heroku para el BackEnd y Versel para el FrontEnd. 
