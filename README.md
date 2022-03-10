@@ -8,26 +8,15 @@
 <h4> You can contact me at: / Me puedes contactar en: </h4>
 
 <div>
-    <span>
-      <h4>LinkedIn</h4>
-      <a href="https://www.linkedin.com/in/felipe-ciro-montoya/">
-      <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Felipe Ciro LinkedIn Profile" height="30" width="30" />
+    <a href="https://www.linkedin.com/in/felipe-ciro-montoya/">
+      <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Felipe Ciro LinkedIn Profile" height="40" width="40" />
       </a>
-    </span>
-    <span>
-      <h4>GitHub</h4>
-      <a href="https://github.com/FelipeCiroM">
-      <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Felipe Ciro GitHub Profile" height="30" width="30" />
-      </a>
-    </span>
-    <span>
-      <h4>Mail</h4>
-      <a href="mailto:felipe.cirom@udea.edu.co">
-      <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Felipe Ciro Gmail" height="30" width="30" />
-      </a>
-    </span>
-    
-    
+    <a href="https://wa.me/qr/MO7QVBIRIO4GD1" target="_blank">
+        <img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="https://wa.me               /+undefined573003400992?text=Hola%20Alejandro,%20soy%20" height="40" width="40" />
+    </a>
+    <a href="mailto:felipe.cirom@udea.edu.co">
+     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Felipe Ciro Gmail" height="40" width="40" />
+     </a>
 <div/>
 <br/>
 <p><label>felipe.cirom@udea.edu.co</label></p>
