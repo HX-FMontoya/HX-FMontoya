@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/felipe-ciro-montoya/">
       <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Felipe Ciro LinkedIn Profile" height="40" width="40" />
       </a>
-    <a href="https://wa.me/qr/573148814074" target="_blank">
+    <a href="https://api.whatsapp.com/send/?phone=573148814074&text&app_absent=0" target="_blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="https://wa.me               /+undefined573003400992?text=Hola%20Alejandro,%20soy%20" height="40" width="40" />
     </a>
     <a href="mailto:felipe.cirom@udea.edu.co">
