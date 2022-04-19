@@ -14,7 +14,7 @@
     <a href="https://api.whatsapp.com/send/?phone=573148814074&text&app_absent=0" target="_blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="https://wa.me               /+undefined573003400992?text=Hola%20Alejandro,%20soy%20" height="40" width="40" />
     </a>
-    <a href="mailto:felipe.cirom@udea.edu.co">
+    <a href="mailto:felipeciromontoya.developer@gmail.com">
      <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Felipe Ciro Gmail" height="50" width="50" />
      </a>
 <div/>
