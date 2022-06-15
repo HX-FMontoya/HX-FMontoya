@@ -19,7 +19,7 @@
      </a>
 <div/>
 <br/>
-<p><label>felipe.cirom@udea.edu.co</label></p>
+<p><label>felipeciromontoya.developer@gmail.com</label></p>
     
 <hr/>
     
