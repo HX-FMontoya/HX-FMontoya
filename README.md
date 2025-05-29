@@ -24,17 +24,33 @@
 <hr/>
     
 <h2 align="center">Languages: / Lenguajes: </h2>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="45" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width= "40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://sequelize.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+
+<hr/>
+
+<h3 align="center">Backend: </h3>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a> 
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
+
+<hr/>
+
+<h3 align="center">Frontend: </h3>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 
 <hr/>
 <br/>
@@ -65,68 +81,27 @@ const felipeCiroM = {
 <div>
   <h4>English</h4>
   <p>
-    I am a person passionate about science and art.
-    I am currently studying Mathematics at the University of Antioquia, Colombia. Also,
-    I am doing the Soy Henry bootcamp to become a Full Stack web development.
-    I work very well in teams, I am usually the one who leads them,
-    I can see potential in people that maybe they don't know themselves. 
     I love reading, nature and of course computer science.
-    
   </p>
 </div>
 
 <div>
   <h4>Spanish</h4>
   <p>
-    Soy una persona apasionada por las ciencias y el arte.
-    Actualmente estudio Matemáticas en la Universidad de Antioquia, Colombia. Además,
-    Me encuentro realizando el bootcamp de Soy Henry para ser web development Full Stack.
-    Trabajo muy bien en equipo, generalmente soy quien los lidera,
-    puedo ver potencial en las personas que tal vez ellas mismas desconocen. 
     Me encanta la lectura, la naturaleza y por supuesto las ciencias de la computación.
   </p>
 </div>
 
-<strong> Below is a brief sample of what I have done: / A continuación una breve muestra de lo que he hecho:</strong>
-
 <hr/>
-<h2 align="center">Projects / Proyectos</h2>
+<h2 align="center">Stack</h2>
 <hr/>
 
-<h2> Weather App </h2>
-<h4> Developed with: / Desarrollada con: </h4>
-<ul>
-  <h5>|--| FrontEnd |--|</h5>
-    <li>React</li>
-</ul>
-<p>This was one of my first applications using REACT. In this App I learned how to use react-router-dom, in which you can search for different cities, it will show a short information and when you click on one of them, it will show you a more detailed info. You can also delete a city by means of the X on the corner. 
-    </p>
-<p>Esta fue una de mis primeras aplicaciones utilizando REACT. En esta App aprendí a utilizar react-router-dom, en la que se pueden buscar diferentes ciudades, saldrá una corta información y al darle clic en alguna, le mostrará una info más detallada. Además pueden eliminar una ciudad por medio de la X de la equina. 
-    </p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HX-FMontoya&hide_border=true&layout=compact" align="center" /></div>  
 
 <hr/>
-
-<h2> Videogames App </h2>
-
-<h4> Developed with: / Desarrollada con: </h4>
-<ul>
-  <h5>|--| FrontEnd |--|</h5>
-    <li>React</li>
-    <li>Redux</li>
-  <h5>|--| BackEnd |--|</h5>
-    <li>NodeJs</li>
-    <li>Express</li>
-    <li>Sequelize</li>
-    <li>PostgreSQL</li>
-</ul>
-    
-This application merges both databases, backend and frontend. It uses an external API (RAWG) which gives us a detailed list of video games, which we will be able to filter by genre, sort by name, rating, among others, you can search for video games, and create your own. I made it by creating a database with Sequelize and postgreSQL to store the video games that the user will create. Using async await for the Backend part and managing a controlled form in the Frontend.
-Developed with: Deployed with Heroku for the BackEnd and Versel for the FrontEnd. 
-You can visit it by clicking <a href="https://videogames-app-ruddy.vercel.app/">here</a>
-    
-Esta aplicación fusiona tanto bases de datos, backend y frontend. Usa una API externa (RAWG) la cual nos brinda una lista detallada de videojuegos, los cuales, vamos a poder filtrar por género, ordenar por nombre, rating, entre otras, se pueden buscar videojuegos, y crear los propios. la realicé creando una base de datos con Sequelize y postgreSQL para almacenar los videojuegos que el usuario irá creando. Utilizando async await para la parte del Backend y manejando un formulario controlado en el Frontend.
-Deployada con Heroku para el BackEnd y Versel para el FrontEnd. 
-Pueden visitarla, haciendo click <a href="https://videogames-app-ruddy.vercel.app/">aquí</a>
-
-
+<h2 align="center">Views / Vistas</h2>
 <hr/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=gonzaliaga&&style=flat-square" align="center" />
+</div>  
