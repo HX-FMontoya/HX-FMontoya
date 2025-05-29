@@ -2,34 +2,31 @@
   <img src="https://i.postimg.cc/ydkR2sLS/imagen.png" height="200" />
 </p>
 
-<h1 align="center">Hi, I'm Felipe Ciro Montoya! 👋</h1>
-<h3 align="center">Full-Stack Developer | Node.js & React Enthusiast | Clean Code Advocate</h3>
-
----
-
-<h2 align="center">📬 Contact / Contacto</h2>
+<h1 align="center">Hey there 👋, I'm Felipe Ciro Montoya</h1>
+<h3 align="center">🚀 Full-Stack Developer | 🧠 Clean Code Evangelist | 🌐 Cloud & API Specialist</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/felipe-ciro-montoya/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" />
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=573148814074&text=Hola,%20Felipe">
-    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" height="40" />
-  </a>
-  <a href="mailto:felipeciromontoya.developer@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" />
-  </a>
+  <em>Transforming complex ideas into scalable and maintainable systems.</em>
 </p>
-
-<p align="center">📧 felipeciromontoya.developer@gmail.com</p>
 
 ---
 
-<h2 align="center">🧠 Tech Stack</h2>
+<h2 align="center">📫 Connect with Me</h2>
 
-### 🛠️ Backend
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-ciro-montoya/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" /></a>
+  <a href="https://api.whatsapp.com/send/?phone=573148814074&text=Hola,%20Felipe"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" height="40" /></a>
+  <a href="mailto:felipeciromontoya.developer@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" /></a>
+</p>
 
-<p>
+<p align="center">📧 <code>felipeciromontoya.developer@gmail.com</code></p>
+
+---
+
+<h2 align="center">🧠 Tech Arsenal</h2>
+
+### ⚙️ Backend
+<p align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" />
   <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" />
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" />
@@ -40,8 +37,7 @@
 </p>
 
 ### 🎨 Frontend
-
-<p>
+<p align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" />
   <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="40" />
   <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="40" />
@@ -52,7 +48,7 @@
 
 ---
 
-### 💻 Code Snippet
+### 🧩 What I’m Working On
 
 ```ts
 const felipeCiro = {
@@ -60,9 +56,10 @@ const felipeCiro = {
     backend: ['Node.js', 'Express', 'PostgreSQL', 'MongoDB', 'Firebase'],
     frontend: ['React', 'Next.js', 'Vue.js', 'Tailwind CSS']
   },
+  tools: ['Git', 'Docker', 'Swagger', 'Redis'],
   currentFocus: ['Clean Architecture', 'Microservices', 'Kubernetes'],
   learning: ['Python', 'Go', 'Solidity'],
-  interests: ['AI', 'Cloud Computing', 'Machine Learning']
+  passions: ['AI', 'Cloud Computing', 'Machine Learning'],
 };
 ```
 
@@ -70,10 +67,21 @@ const felipeCiro = {
 
 <h2 align="center">🧔 About Me</h2>
 
-**English**: I'm a passionate software developer who loves crafting scalable backend services, elegant frontend interfaces, and automating workflows. I'm currently diving deep into microservices and cloud infrastructure.
-
-**Español**: Soy un desarrollador apasionado por crear servicios backend escalables, interfaces frontend elegantes y automatizar procesos. Actualmente estoy profundizando en microservicios e infraestructura en la nube.
+- 🌱 Always learning and experimenting with new technologies.
+- 🧹 Fanatic about writing **clean**, **maintainable** and **performant** code.
+- 🧭 I believe in the power of open source and community learning.
+- ✍️ I enjoy writing technical documentation and mentoring junior developers.
+- 💬 Ask me about anything JavaScript, TypeScript, Node.js, or React!
 
 ---
 
-<p align="center">✨ Let's build something amazing together ✨</p>
+<h2 align="center">🚀 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipeciromontoya&show_icons=true&theme=radical&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=felipeciromontoya&theme=radical" />
+</p>
+
+---
+
+<p align="center">⚡ Let’s build the future together, one line of code at a time.</p>
