@@ -89,7 +89,7 @@ const felipeCiro = {
 <h2 align="center">🚀 GitHub Stats</h2>
 
 <p align="center">
-  ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=HX-FMontoya)
+  <!-- ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=HX-FMontoya) -->
   <img src="https://github-readme-stats.vercel.app/api?username=HX-FMontoya&show_icons=true&theme=radical&hide_title=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HX-FMontoya&theme=radical" />
 </p>
