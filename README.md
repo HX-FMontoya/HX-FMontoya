@@ -26,7 +26,7 @@
 <h2 align="center">Languages: / Lenguajes: </h2>
 
 <hr/>
-
+<div display="flex" >
 <h3 align="center">Backend: </h3>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -38,9 +38,9 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a> 
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-
+</div>
 <hr/>
-
+<div display="flex" >
 <h3 align="center">Frontend: </h3>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -51,7 +51,7 @@
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-
+</div>
 <hr/>
 <br/>
 
@@ -91,17 +91,3 @@ const felipeCiroM = {
     Me encanta la lectura, la naturaleza y por supuesto las ciencias de la computación.
   </p>
 </div>
-
-<hr/>
-<h2 align="center">Stack</h2>
-<hr/>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HX-FMontoya&hide_border=true&layout=compact" align="center" /></div>  
-
-<hr/>
-<h2 align="center">Views / Vistas</h2>
-<hr/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=gonzaliaga&&style=flat-square" align="center" />
-</div>  
