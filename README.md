@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey there 👋, I'm Felipe Ciro Montoya</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🧠 Clean Code Evangelist | 🌐 Cloud & API Specialist</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🧠 Passionate about Clean Code | 🌐 Cloud & API Specialist</h3>
 
 <p align="center">
   <em>Transforming complex ideas into scalable and maintainable systems.</em>
@@ -75,9 +75,21 @@ const felipeCiro = {
 
 ---
 
+<h2 align="center">🏢 Work Contributions</h2>
+
+<p>Most of my daily contributions happen in private repositories at Coordinadora Mercantil, where I work on:</p>
+
+- 🌐 Scalable microservices with Node.js, PostgreSQL and Redis.
+- 🧪 Testing strategies with Jest, Supertest and Cypress.
+- 🛠️ Clean Architecture, Dependency Injection and API orchestration.
+- 🚀 CI/CD pipelines, Kubernetes deployments and GitOps workflows.
+
+---
+
 <h2 align="center">🚀 GitHub Stats</h2>
 
 <p align="center">
+  ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=HX-FMontoya)
   <img src="https://github-readme-stats.vercel.app/api?username=HX-FMontoya&show_icons=true&theme=radical&hide_title=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HX-FMontoya&theme=radical" />
 </p>
